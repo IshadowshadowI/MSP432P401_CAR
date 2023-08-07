@@ -1,0 +1,2 @@
+# MSP432P401_CAR
+基于msp432P401的全套PID闭环小车驱动，包含常见432模块全部驱动，经测试效果良好，如需代码或更多资料请star并联系shallow_shadow@qq.com
